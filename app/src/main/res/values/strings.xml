@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">FCM Example</string>
     <string name="send_push_notification">Send Push Notification</string>
+    <string name="sending_message">Sending push notification…</string>
 </resources>
