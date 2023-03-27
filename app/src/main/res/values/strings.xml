@@ -2,4 +2,6 @@
     <string name="app_name">FCM Example</string>
     <string name="send_push_notification">Send Push Notification</string>
     <string name="sending_message">Sending push notification…</string>
+    <string name="push_allowed">Allowed</string>
+    <string name="push_denied">DENIED!</string>
 </resources>
