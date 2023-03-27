@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FCM Example</string>
+    <string name="send_push_notification">Send Push Notification</string>
 </resources>
